@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1777570493 source:e:\d\all course\cse532\matrix_multiplication\main.cpp
+	<iostream>
+	<vector>
+	<omp.h>
+	<algorithm>
+	<iomanip>
+
